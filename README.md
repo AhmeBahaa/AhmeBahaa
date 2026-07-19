@@ -38,7 +38,9 @@
 ------------------------------.*+     -:        ..------------------------------
 
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Electronics%20%26%20Communications%20Engineering;Building%20Embedded%20Systems%2C%20IoT%20Solutions%20%26%20Network%20Infrastructures" alt="Typing headlines" />
+</p>
 ### 🚀 About Me
 
 Electronics and Communications Engineer with a passion for bringing hardware to life. I love mixing embedded systems, IoT, and cloud technologies to build impactful tech solutions that actually help people.
